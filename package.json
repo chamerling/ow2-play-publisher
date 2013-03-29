@@ -1,0 +1,24 @@
+{
+  "name": "ow2-play-publisher",
+  "version": "0.0.1",
+  "description": "Node.js Publisher for OW2 Play API",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/ow2-play-publisher",
+  "keywords": [
+    "node", "play"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/ow2-play-publisher.git"
+  },
+  "dependencies": {
+    "express": "latest",
+    "underscore": "latest",
+    "colors": "latest",
+    "ow2-playclient" : "0.0.1"
+  }
+}
